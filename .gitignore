@@ -1,1 +1,2 @@
-
+git add .
+git commit -m "Inicialização do projeto com README e .gitignore"
